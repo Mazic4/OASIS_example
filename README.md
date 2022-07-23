@@ -3,6 +3,4 @@ Example Code for the paper: Zhang, Huayi, et al. "Continuously adaptive similari
 
 This code requires Linux System, and requires installing the FALCONN package with `pip install FALCONN`.
 
-Note: This code is not annotated, and provided as is. 
-
 If you find any problems, please contact hzhang4@wpi.edu.
